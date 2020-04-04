@@ -1,4 +1,4 @@
 <center> <h3>guessinggame.sh for Coursera/John Hopkins Univerity/The Unix Workbench course</h3> </center>
-README.md created at: Sun 29 Mar 2020 10:12:02 PM WEST
+README.md created at: Sat 04 Apr 2020 06:48:16 PM WEST
 
-Number of lines in guessinggame.sh: 24
+Number of lines in guessinggame.sh: 32
